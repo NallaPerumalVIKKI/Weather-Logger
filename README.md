@@ -10,7 +10,14 @@ First let’s log the temperature to a file every 5 seconds. We can use the emul
 
 
 
+
+
+
 ![image](https://user-images.githubusercontent.com/87609938/139233650-9c7952c6-08a4-4491-8946-866a7b71de71.png)
+
+
+
+
 
 
 
