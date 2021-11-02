@@ -28,3 +28,4 @@ First let’s log the temperature to a file every 5 seconds. We can use the emul
 
 
 ![image](https://user-images.githubusercontent.com/87609938/139233678-bceacef9-fa53-4241-9f7e-48126bac9d99.png)
+
